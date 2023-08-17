@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	font-family: Arial;
+    font-size: 20pt;
+    color: #00b300;
+    text-shadow: 1px 1px 2px black;
+	text-align: center
+}
+h3{
+	text-align: left
+}
+h4{
+	text-align: justify
+}
+h5{
+	text-align: left
+}
+body{
+	background-color: #e6ffff;
+}
+    	
